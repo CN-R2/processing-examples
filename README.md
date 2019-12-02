@@ -10,3 +10,4 @@ Examples from the CN1 Programming Course.
 - [Bouncing Ball](BouncingBall/BouncingBall.pde) – Simple example of a Processing sketch classic: an ellipse bouncing off the walls.
 - [Bouncing Image](BouncingImage/BouncingImage.pde) – Image version of the BouncingBall sketch.
 - [Pixelate](Pixelate/Pixelate.pde) – Simple pixelation example with the official Processing logo.
+- [Piano Phase](Pianophase/Pianophase.pde) – Proof of concept for Piano Phase (1967) by Steve Reich, for two pianos.
