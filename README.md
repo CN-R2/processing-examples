@@ -9,3 +9,4 @@ Examples from the CN1 Programming Course.
 ## Table of contents
 - [Bouncing Ball](BouncingBall/BouncingBall.pde) – Simple example of a Processing sketch classic: an ellipse bouncing off the walls.
 - [Bouncing Image](BouncingImage/BouncingImage.pde) – Image version of the BouncingBall sketch.
+- [Pixelate](Pixelate/Pixelate.pde) – Simple pixelation example with the official Processing logo.
