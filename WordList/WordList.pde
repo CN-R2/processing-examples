@@ -5,7 +5,7 @@
  * from the well-known "RockYou" password list. Note that we only used
  * 100,000 of the 14,341,564 the original contains (for file size reasons).
  * These unique passwords were made public in 2009 when a company called
- * RockYou was hacked, causing to the dump of its 32,603,388 user accounts
+ * RockYou was hacked, causing the dump of its 32,603,388 user accounts
  * database.
  */
 
