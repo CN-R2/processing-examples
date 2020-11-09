@@ -11,6 +11,8 @@ float ySpeed = 1;
 
 void setup() {
   size(600, 400);
+  colorMode(HSB);
+  applyRandomTint();
   
   // Load and resize the image
   img = loadImage("images/logo.png");
@@ -44,9 +46,9 @@ void draw() {
 }
 
 /**
- * Pick a random RGB color to dye images in.
+ * Pick an HSB color with a random hue to dye the image in.
  */
 void applyRandomTint() {
-  color c = color(random(255), random(255), random(255));
+  color c = color(random(255), 255, 255);
   tint(c);
 }
