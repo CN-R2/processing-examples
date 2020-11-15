@@ -12,4 +12,5 @@ Examples from the CN1 Programming Course.
 - [Pixelate](Pixelate/Pixelate.pde) – Simple pixelation example with the official Processing logo.
 - [WordList](WordList/WordList.pde) – Simple reading of a text file with loadStrings().
 - [Piano Phase](Pianophase/Pianophase.pde) – Proof of concept for Piano Phase (1967) by Steve Reich, for two pianos.
+- [Counters](Counters/Counters.pde) – A very basic counter implementation to explain how classes work in Processing.
 - [Typology](Typology/Typology.pde) – Art project based on the Framework Houses (1959-73) by Bernd and Hilla Becher.
