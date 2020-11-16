@@ -22,7 +22,6 @@ class Counter {
     this.y = y;
 
     // Basic styling
-    ellipseMode(CENTER);
     textAlign(CENTER, CENTER);
     textSize(28);
   }
